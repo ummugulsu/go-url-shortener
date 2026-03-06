@@ -1,5 +1,3 @@
-# go-url-shortener
-
 # Go URL Shortener
 
 A simple and scalable URL shortener API built with **Go** and **PostgreSQL**.  

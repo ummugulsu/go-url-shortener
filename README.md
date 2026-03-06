@@ -59,6 +59,4 @@ go run cmd/main.go
 
 Test API with Postman or curl.
 
-Author
 
-Ummugulsum Zengin
